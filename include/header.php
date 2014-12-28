@@ -12,7 +12,7 @@
 
 <div id="wrapper" align="center">
 <header>
-<div id="header" align="center"></div>
+<div id="header" align=""></div>
 </header>
 <div id="banner">
 </div>
